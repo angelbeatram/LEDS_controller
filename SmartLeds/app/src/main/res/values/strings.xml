@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart Leds</string>
+    <string name="tab_text_1">Blancos</string>
+    <string name="tab_text_2">Colores</string>
+    <string name="tab_text_3">Funciones</string>
+    <string name="text_label_1" />
+    <string name="text_label_2">hola</string>
+</resources>
